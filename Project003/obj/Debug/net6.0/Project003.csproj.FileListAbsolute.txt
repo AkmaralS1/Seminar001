@@ -1,0 +1,15 @@
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\obj\Debug\net6.0\Project003.csproj.AssemblyReference.cache
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\obj\Debug\net6.0\Project003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\obj\Debug\net6.0\Project003.AssemblyInfoInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\obj\Debug\net6.0\Project003.AssemblyInfo.cs
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\obj\Debug\net6.0\Project003.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\bin\Debug\net6.0\Project003.exe
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\bin\Debug\net6.0\Project003.deps.json
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\bin\Debug\net6.0\Project003.runtimeconfig.json
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\bin\Debug\net6.0\Project003.dll
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\bin\Debug\net6.0\Project003.pdb
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\obj\Debug\net6.0\Project003.dll
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\obj\Debug\net6.0\refint\Project003.dll
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\obj\Debug\net6.0\Project003.pdb
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\obj\Debug\net6.0\Project003.genruntimeconfig.cache
+C:\Users\1\OneDrive\Рабочий стол\Seminar_1\Project003\obj\Debug\net6.0\ref\Project003.dll
